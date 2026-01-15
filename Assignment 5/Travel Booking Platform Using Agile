@@ -1,0 +1,42 @@
+Travel Booking Platform Using Agile
+1. Introduction
+
+A Travel Booking Platform allows users to book flights, hotels, and travel packages online. It simplifies travel planning by providing all services in one platform.
+
+2. Objectives
+
+To provide online booking services
+
+To manage travel packages
+
+To improve user convenience
+
+3. Scope
+
+The system enables users to search destinations, book tickets, and manage reservations.
+
+4. Agile Methodology
+
+The platform is developed in multiple sprints. Each sprint delivers features like booking, payment, and user profile management.
+
+5. Key Features
+
+User registration and login
+
+Search and booking system
+
+Payment processing
+
+Booking history
+
+6. Advantages
+
+User-friendly interface
+
+Fast booking process
+
+Easy updates
+
+7. Conclusion
+
+Using Agile methodology helps in building a flexible and scalable travel booking platform.
