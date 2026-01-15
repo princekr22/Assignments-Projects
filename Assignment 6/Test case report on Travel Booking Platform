@@ -1,0 +1,34 @@
+Travel Booking Platform
+
+Test Case 1
+Field	Details
+Test Case ID	TC_TRAVEL_001
+Test Case Title	Verify user registration
+Module Name	Registration Module
+Pre-conditions	Application should be accessible
+Test Data	Name, Email, Password
+Test Steps	1. Open application
+2. Click Register
+3. Enter details
+4. Submit
+Expected Result	Registration successful
+Actual Result	Registration successful
+Status	Pass
+Remarks	NA
+
+
+Test Case 2
+
+Field	Details
+Test Case ID	TC_TRAVEL_002
+Test Case Title	Book travel ticket
+Module Name	Booking Module
+Pre-conditions	User should be logged in
+Test Data	Destination, Date, Passengers
+Test Steps	1. Search destination
+2. Select package
+3. Confirm booking
+Expected Result	Booking confirmed
+Actual Result	Booking confirmed
+Status	Pass
+Remarks	NA
