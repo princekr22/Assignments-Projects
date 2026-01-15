@@ -1,0 +1,36 @@
+Online E-Commerce Website
+
+
+Test Case 1
+
+Field	Details
+Test Case ID	TC_ECOM_001
+Test Case Title	Add product to cart
+Module Name	Cart Module
+Pre-conditions	User should be logged in
+Test Data	Product ID
+Test Steps	1. Browse products
+2. Select product
+3. Click Add to Cart
+Expected Result	Product added to cart
+Actual Result	Product added to cart
+Status	Pass
+Remarks	NA
+
+
+Test Case 2
+
+Field	Details
+Test Case ID	TC_ECOM_002
+Test Case Title	Complete checkout process
+Module Name	Checkout Module
+Pre-conditions	Cart should have items
+Test Data	Address, Payment details
+Test Steps	1. Open cart
+2. Click Checkout
+3. Enter details
+4. Place order
+Expected Result	Order placed successfully
+Actual Result	Order placed successfully
+Status	Pass
+Remarks	NA
