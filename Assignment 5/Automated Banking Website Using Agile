@@ -1,0 +1,42 @@
+Automated Banking Website Using Agile
+1. Introduction
+
+An Automated Banking Website provides online banking services such as fund transfer, balance enquiry, and account management.
+
+2. Objectives
+
+To automate banking services
+
+To reduce manual work
+
+To provide secure transactions
+
+3. Scope
+
+The system supports customer login, account management, and transaction history.
+
+4. Agile Approach
+
+The project is developed in sprints such as authentication, account services, and transaction modules.
+
+5. System Features
+
+Secure login
+
+Fund transfer
+
+Account details view
+
+Transaction history
+
+6. Advantages
+
+Secure and reliable
+
+Faster transactions
+
+Easy maintenance
+
+7. Conclusion
+
+Agile development helps in delivering a secure and efficient banking system.
