@@ -1,0 +1,56 @@
+Customer Relationship Management (CRM) System Using Agile
+1. Introduction
+
+Customer Relationship Management (CRM) is a software system used by organizations to manage interactions with customers, improve customer satisfaction, and increase business growth. The CRM system stores customer details, tracks communication, and helps in managing sales and support activities efficiently.
+
+2. Objectives
+
+To maintain customer records
+
+To track customer interactions
+
+To improve customer satisfaction
+
+To support business decision making
+
+3. Scope of the Project
+
+The CRM system allows users to add, update, search, and manage customer data. It also supports interaction tracking and reporting features.
+
+4. Agile Methodology Used
+
+The Agile methodology follows an iterative development approach. The project is divided into small sprints, and each sprint delivers a working module of the system.
+
+Agile Phases:
+
+Requirement Gathering
+
+Sprint Planning
+
+Development
+
+Testing
+
+Review & Feedback
+
+5. System Features
+
+Customer data management
+
+Interaction history tracking
+
+Search and filter customers
+
+User authentication
+
+6. Advantages
+
+Faster development
+
+Easy to modify requirements
+
+Continuous customer feedback
+
+7. Conclusion
+
+The CRM system developed using Agile methodology ensures flexibility, better customer management, and improved productivity.
