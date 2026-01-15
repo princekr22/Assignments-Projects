@@ -1,0 +1,18 @@
+Customer Relationship Management (CRM) System
+
+Field                       Details
+
+Test Case ID	            TC_LOGIN_001
+Test Case Title	          Verify login with valid credentials
+Module Name	              Login Module
+Pre-conditions	          User should be registered
+Test Data	Username:       user123
+Password: user@123
+Test Steps	              1. Open application
+                          2. Enter username
+                          3. Enter valid password
+                          4. Click Login
+Expected Result          	User should be logged in successfully
+Actual Result	            User logged in successfully
+Status	                  Pass
+Remarks  	                NA
