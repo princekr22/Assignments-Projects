@@ -1,0 +1,33 @@
+Healthcare Management System
+
+Test Case 1
+
+Field	Details
+Test Case ID	TC_HEALTH_001
+Test Case Title	Add patient record
+Module Name	Patient Module
+Pre-conditions	Admin should be logged in
+Test Data	Patient Name, Age, Disease
+Test Steps	1. Open patient module
+2. Enter details
+3. Save record
+Expected Result	Patient record added successfully
+Actual Result	Patient record added successfully
+Status	Pass
+Remarks	NA
+
+Test Case 2
+
+Field	Details
+Test Case ID	TC_HEALTH_002
+Test Case Title	Book appointment
+Module Name	Appointment Module
+Pre-conditions	Patient record exists
+Test Data	Doctor, Date
+Test Steps	1. Select patient
+2. Choose doctor
+3. Book appointment
+Expected Result	Appointment booked successfully
+Actual Result	Appointment booked successfully
+Status	Pass
+Remarks	NA
