@@ -1,0 +1,32 @@
+Automated Banking Website
+
+Test Case 1
+
+Field	Details
+Test Case ID	TC_BANK_001
+Test Case Title	Verify balance enquiry
+Module Name	Account Module
+Pre-conditions	User should be logged in
+Test Data	Account Number
+Test Steps	1. Login
+2. Select Balance Enquiry
+Expected Result	Account balance displayed
+Actual Result	Account balance displayed
+Status	Pass
+Remarks	NA
+
+Test Case 2
+
+Field	Details
+Test Case ID	TC_BANK_002
+Test Case Title	Fund transfer with insufficient balance
+Module Name	Transaction Module
+Pre-conditions	User should be logged in
+Test Data	Amount greater than balance
+Test Steps	1. Select Fund Transfer
+2. Enter amount
+3. Submit
+Expected Result	Error message displayed
+Actual Result	Error message displayed
+Status	Pass
+Remarks	NA
